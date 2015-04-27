@@ -1,6 +1,7 @@
 lib/impact/**
 lib/weltmeister/**
 tools/**
+lib/game/levels/forest.js
 
 weltmeister.html
 
