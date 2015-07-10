@@ -16,4 +16,5 @@ Which will output the following:
 
 #### Contributions
 
-This project is currently not open for contributions by other users, but we appreciate the thought. 
+If you'd like to contribute, please know that you'll need your own copy of the [Impact JS](http://impactjs.com/). 
+We have plenty of [issues](https://github.com/DrkSephy/Tales-of-Kratos/issues) that need to be taken care of. 
